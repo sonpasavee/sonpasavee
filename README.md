@@ -12,11 +12,6 @@ I enjoy building practical web applications and learning how to design, develop,
 - **Database:** PostgreSQL, MySQL, MongoDB
 - **Tools:** Git, GitHub, Docker, Postman
 
-### 🚀 Projects
-
-- **[ant-database](https://github.com/sonpasavee/ant-database)** — A web application for managing ant collection records and locations.
-- **[smart-pos](https://github.com/sonpasavee/smart-pos)** — A point-of-sale system project using Supabase and PostgreSQL.
-
 ### 📚 Currently
 
 - Improving my backend development and database design skills.
